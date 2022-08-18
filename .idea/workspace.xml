@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8aa0e92-8d0f-4c05-8559-95e497ea0813" name="Changes" comment="Union de rama">
-      <change afterPath="$PROJECT_DIR$/src/Brayan2.java" afterDir="false" />
+    <list default="true" id="c8aa0e92-8d0f-4c05-8559-95e497ea0813" name="Changes" comment="CreaciónRamaBrayan">
+      <change beforePath="$PROJECT_DIR$/src/Brayan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Brayan2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660792932819</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="CreaciónRamaBrayan">
+      <created>1660793213938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660793213938</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,7 +83,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="RamaBrayan" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -85,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer comentario" />
     <MESSAGE value="Union de rama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Union de rama" />
+    <MESSAGE value="CreaciónRamaBrayan" />
+    <option name="LAST_COMMIT_MESSAGE" value="CreaciónRamaBrayan" />
   </component>
 </project>
