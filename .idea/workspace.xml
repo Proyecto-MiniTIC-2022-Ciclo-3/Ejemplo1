@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8aa0e92-8d0f-4c05-8559-95e497ea0813" name="Changes" comment="UnionRamaBrayan" />
+    <list default="true" id="c8aa0e92-8d0f-4c05-8559-95e497ea0813" name="Changes" comment="CreacionRamaBrayan2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +87,28 @@
       <option name="project" value="LOCAL" />
       <updated>1660793932278</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="UnionRamaBrayan1">
+      <created>1660794580581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660794580581</updated>
+    </task>
+    <task id="LOCAL-00007" summary="UnionRamaBrayan2">
+      <created>1660794593414</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660794593414</updated>
+    </task>
+    <task id="LOCAL-00008" summary="CreacionRamaBrayan2">
+      <created>1660794812438</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660794812438</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,7 +122,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="RamaBrayan" />
+                        <option value="RamaBrayan2" />
                       </list>
                     </value>
                   </entry>
@@ -118,6 +139,10 @@
     <MESSAGE value="Union de rama" />
     <MESSAGE value="CreaciónRamaBrayan" />
     <MESSAGE value="UnionRamaBrayan" />
-    <option name="LAST_COMMIT_MESSAGE" value="UnionRamaBrayan" />
+    <MESSAGE value="UnirRamaBrayan2" />
+    <MESSAGE value="UnionRamaBrayan1" />
+    <MESSAGE value="UnionRamaBrayan2" />
+    <MESSAGE value="CreacionRamaBrayan2" />
+    <option name="LAST_COMMIT_MESSAGE" value="CreacionRamaBrayan2" />
   </component>
 </project>
