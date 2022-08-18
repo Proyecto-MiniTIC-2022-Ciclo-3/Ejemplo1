@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8aa0e92-8d0f-4c05-8559-95e497ea0813" name="Changes" comment="CreaciónRamaBrayan">
-      <change beforePath="$PROJECT_DIR$/src/Brayan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Brayan2.java" afterDir="false" />
-    </list>
+    <list default="true" id="c8aa0e92-8d0f-4c05-8559-95e497ea0813" name="Changes" comment="UnionRamaBrayan" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660793213938</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="UnionRamaBrayan">
+      <created>1660793556488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660793556488</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +110,7 @@
     <MESSAGE value="Primer comentario" />
     <MESSAGE value="Union de rama" />
     <MESSAGE value="CreaciónRamaBrayan" />
-    <option name="LAST_COMMIT_MESSAGE" value="CreaciónRamaBrayan" />
+    <MESSAGE value="UnionRamaBrayan" />
+    <option name="LAST_COMMIT_MESSAGE" value="UnionRamaBrayan" />
   </component>
 </project>
