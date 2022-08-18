@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8aa0e92-8d0f-4c05-8559-95e497ea0813" name="Changes" comment="CreacionRamaBrayan2" />
+    <list default="true" id="c8aa0e92-8d0f-4c05-8559-95e497ea0813" name="Changes" comment="CreacionClase3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660794812438</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="CreacionClase3">
+      <created>1660795029650</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660795029650</updated>
+    </task>
+    <task id="LOCAL-00010" summary="CreacionClase3">
+      <created>1660795120814</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660795120814</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +157,7 @@
     <MESSAGE value="UnionRamaBrayan1" />
     <MESSAGE value="UnionRamaBrayan2" />
     <MESSAGE value="CreacionRamaBrayan2" />
-    <option name="LAST_COMMIT_MESSAGE" value="CreacionRamaBrayan2" />
+    <MESSAGE value="CreacionClase3" />
+    <option name="LAST_COMMIT_MESSAGE" value="CreacionClase3" />
   </component>
 </project>
